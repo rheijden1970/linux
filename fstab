@@ -2,17 +2,5 @@
 #
 # <file system> <mount point>   <type>  <options>       <dump>  <pass>
 
-#Entry for /dev/nvme0n1p2 :
-UUID=025c246f-ff43-426c-8d28-d78cab79b23c	/	ext4	errors=remount-ro	0	1
-#Entry for /dev/nvme0n1p1 :
-UUID=2A6B-B572	/boot/efi	vfat	umask=0077	0	1
 #Entry for /dev/sda2 :
-UUID=4AB4B265B4B25365	/home/richard/mounts/NTFS/SSD2	ntfs-3g	defaults,windows_names,locale=en_US.utf8	0	0
-#Entry for /dev/nvme0n1p4 :
-UUID=FCB031F5B031B6CC	/home/richard/mounts/NTFS/Windows-Linux	ntfs-3g	defaults,windows_names,locale=en_US.utf8	0	0
-#Entry for /dev/sdb1 :
-#UUID=F474B7AA74B76DCC	/media/Extern_HDD_WD_2TB	ntfs-3g	defaults,windows_names,locale=en_US.utf8	0	0
-#Entry for /dev/nvme0n1p5 :
-UUID=75c8cc32-cb43-43dd-90b5-7fce76510753	none	swap	sw	0	0
-
-
+UUID=-----	/home/richard/mounts/NTFS/SSD2	ntfs-3g	defaults,windows_names,locale=en_US.utf8	0	0
