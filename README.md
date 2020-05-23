@@ -1,2 +1,2 @@
 # linux
-Doe een volledige Ubunt server upgrade
+Uses for linux scripts and config files
