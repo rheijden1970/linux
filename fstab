@@ -2,5 +2,5 @@
 #
 # <file system> <mount point>   <type>  <options>       <dump>  <pass>
 
-#Entry for /dev/sda2 :
+#Entry for /dev/.... :
 UUID=<UUID van schijf>	/home/user/mounts/NTFS/<foldername>	ntfs-3g	defaults,windows_names,locale=en_US.utf8	0	0
