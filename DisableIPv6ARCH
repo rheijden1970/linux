@@ -1,6 +1,0 @@
-# Disable IPv6
-nic0 = lo
-nic1 = ens18
-net.ipv6.conf.all.disable_ipv6 = 1
-net.ipv6.conf.$nic0.disable_ipv6 = 1
-net.ipv6.conf.$nic1.disable_ipv6 = 1
